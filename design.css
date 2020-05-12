@@ -1,0 +1,141 @@
+body {
+  background-image: url("10.png");
+  background-repeat: repeat;
+  padding-top: 10px;
+  padding-bottom: 40px;
+}
+.bod
+{
+  background-image: url("9.png");
+  background-repeat: repeat;
+}
+.bod0
+{
+  background-image: url("8.png");
+  background-repeat: repeat;
+}
+.bout
+{
+  background-color: #4CAF50;
+  border: 1px white outset;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+}
+.a0
+{
+  position: absolute;
+  margin-top: 2px;
+  margin-left: 10%;
+  margin-right: 2%;
+  color: black;
+  margin-bottom: 10%;
+  font-size: 22px;
+  font-family: "Lucida Console" ,Monospace;
+}
+.a1
+{
+  position: absolute;
+  margin-top: 2px;
+  margin-left: 15%;
+  margin-right: 2%;
+  color: black;
+  margin-bottom: 10%;
+  font-size: 18px;
+}
+.a2
+{
+  position: absolute;
+  margin-top: 100%;
+  margin-left: 15%;
+  color: black;
+  margin-bottom: 10%;
+  font-size: 16px;
+}
+.com
+{
+  position: absolute;
+  margin-top: 193%;
+  margin-left: 15%;
+  color: black;
+  margin-bottom: 10%;
+  font-size: 16px;
+}
+.dict
+{
+  position: absolute;
+  margin-top: 285%;
+  margin-left: 15%;
+  color: black;
+  margin-bottom: 10%;
+  font-size: 16px;
+}
+.dict2
+{
+  position: absolute;
+  margin-top: 380%;
+  margin-left: 15%;
+  color: black;
+  margin-bottom: 10%;
+  font-size: 16px;
+}
+.a
+{
+  position: absolute;
+  margin-top: 13%;
+  margin-left: 70%;
+  color: black;
+}
+
+.b
+{
+  position: absolute;
+  margin-top: 1%;
+  margin-bottom: 6%;
+  margin-left: 5%;
+  color: black;
+}
+
+
+.form-signin {
+  max-width: 330px;
+  font-style: bold;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-size: 18px;
+  padding: 5px;
+  margin: 0 auto;
+  color: black;
+}
+.form-signin input{
+  width: 100%;
+  padding: 8px 5px;
+  margin: 2px 0;
+  box-sizing: border-box;
+}
+.form-signin select{
+  width: 100%;
+  padding: 8px 5px;
+  margin: 2px 0;
+  box-sizing: border-box;
+}
+.form-signin input[type=radio]{
+  width: 10%;
+}
+.description{
+  color: #000444;
+  font-family: "Courier New", Courier, monospace ;
+  font-weight: bold;
+  margin-top: 10%;
+  margin-left: 35%;
+  margin-right: 35%;
+  position: center;
+}
+
+.h{
+  color: #FF4900;
+  position: center;
+  font-size: 40px;
+  font-family: Impact, Charcoal, sans-serif;
+}
